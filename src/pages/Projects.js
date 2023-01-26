@@ -10,8 +10,8 @@ export default class Projects extends Component {
             <h2 class="container">Portfolio</h2>
         <div class="container3">
             <div class="container3">
-                <a href="https://github.com/medeldiego47/employee_tracker" target="blank"><img class="img" src={employee} width="200px" height="200px" alt="project 1"></img></a>
-                <p class="cap">employee tracker</p>
+                <a href="http://stormy-cliffs-65992.herokuapp.com/" target="blank"><img class="img" src={employee} width="200px" height="200px" alt="project 1"></img></a>
+                <p class="cap">Jays on your feet Project 3</p>
                 
             </div>
             <div class="container3">
